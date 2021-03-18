@@ -1,3 +1,4 @@
+#s kompa na git popytka 2
 #ideal code
 print('Hello,world')
 print(5+7);
