@@ -1,3 +1,4 @@
+#konflict_github
 #s kompa na git popytka 2
 #ideal code
 print('Hello,world')
